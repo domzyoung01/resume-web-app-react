@@ -1,7 +1,7 @@
 // import { FaBeer } from 'react-icons/fa';
-import { GlobalStyles } from './Components/GlobalStyles';
-import { HeaderComponent } from './Components/HeaderComponent';
-import { MainContentComponent } from './Components/MainContentComponent';
+import { GlobalStyles } from "./Components/GlobalStyles";
+import { HeaderComponent } from "./Components/HeaderComponent";
+import { MainContentComponent } from "./Components/MainContentComponent";
 // import styled from '@emotion/styled'
 
 // const SomeComp = styled.div<{ size: 'small' | 'large' }>(({ palette, spacing, size }: any) => ({
