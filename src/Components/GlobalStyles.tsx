@@ -5,6 +5,5 @@ export const GlobalStyles = () => (
     body {
       font-family: Rubik,Sans-Serif,
       font-weight: 500,
-    }
   `} />
 );
